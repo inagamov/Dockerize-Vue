@@ -6,7 +6,7 @@ Everything you need to dockerize your Vue App quickly.
 
 ## Docker setup
 
-Copy and paste "Dockerfile" and "docker-compose.yml" to the folder with Vue application.
+Copy and paste **Dockerfile** and **docker-compose.yml** to the folder with Vue application.
 
 ### To start the compilation process
 `$ sudo docker-compose up`
@@ -18,4 +18,4 @@ Copy and paste "Dockerfile" and "docker-compose.yml" to the folder with Vue appl
 
 ## Advice
 
-It's also recommended to add "vue.config.js" file to the folder with your Vue application in order to avoid errors.
+It's also recommended to add **vue.config.js** file to the folder with your Vue application in order to avoid errors.

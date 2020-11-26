@@ -1,5 +1,7 @@
 # Dockerize Vue App
 
+Everything you need to dockerize your Vue App quickly.
+
 &nbsp;
 
 ## Docker setup
